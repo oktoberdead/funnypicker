@@ -1,0 +1,10 @@
+body {
+    background-color: #303030;
+}
+
+#inputField {
+    position: fixed;
+    width: 100px;
+    height: 30px;
+    
+}
