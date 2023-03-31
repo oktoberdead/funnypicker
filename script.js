@@ -11,7 +11,7 @@ inputField.oninput = function(){
     if(this.value.length == 6) {
         unformattedHEX = this.value;
         for(let i = 0; i < 6; i++){
-            formattedHEX[i] = unformattedHEX[i] % 26;
+            formattedHEX.charAt(i) = unformattedHEX.charAt(i) % 26;
         }
         colorBox.style.backgroundColor = "#" + formattedHEX;
         alert(1)
