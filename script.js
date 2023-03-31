@@ -14,5 +14,6 @@ inputField.oninput = function(){
             formattedHEX[i] = unformattedHEX[i] % 26;
         }
         colorBox.style.backgroundColor = "#" + formattedHEX;
+        alert(1)
      }
 }
