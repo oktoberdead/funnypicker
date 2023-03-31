@@ -6,8 +6,9 @@ body {
     position: fixed;
     width: 100px;
     height: 30px;
+    font-size: 25px;
     top: 400px;
-    left: 250px;
+    left: 150px;
 }
 
 #colorBox {
