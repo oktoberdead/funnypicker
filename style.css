@@ -4,11 +4,11 @@ body {
 
 #inputField {
     position: fixed;
-    width: 110px;
+    width: 140px;
     height: 30px;
     font-size: 25px;
     top: 400px;
-    left: 195px;
+    left: 180px;
     text-align: center;
 }
 
