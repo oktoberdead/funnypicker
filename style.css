@@ -8,7 +8,7 @@ body {
     height: 30px;
     font-size: 25px;
     top: 400px;
-    left: 170px;
+    left: 205px;
 }
 
 #colorBox {
@@ -17,5 +17,5 @@ body {
     height: 300px;
     top: 100px;
     left: 100px;
-    background-color: gray;
+    background-color: cyan;
 }
