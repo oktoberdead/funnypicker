@@ -4,11 +4,12 @@ body {
 
 #inputField {
     position: fixed;
-    width: 90px;
+    width: 110px;
     height: 30px;
     font-size: 25px;
     top: 400px;
-    left: 205px;
+    left: 195px;
+    text-align: center;
 }
 
 #colorBox {
@@ -17,5 +18,5 @@ body {
     height: 300px;
     top: 100px;
     left: 100px;
-    background-color: cyan;
+    background-color: blue;
 }
